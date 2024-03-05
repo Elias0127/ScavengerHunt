@@ -1,6 +1,6 @@
 # Project 1 - *Scavenger Hunt*
 
-Submitted by: **Elias Woldie
+Submitted by: **Elias Woldie**
 
 **Scavenger Hunt** app is an engaging and interactive way for users to explore their surroundings by completing a series of photo-based tasks. Each task prompts the user to find and photograph specific items or locations, adding a fun and exploratory twist to everyday environments.
 
